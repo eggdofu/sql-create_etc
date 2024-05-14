@@ -1,19 +1,19 @@
-# SQL�̊�{����iCREATE�AINSERT�AALTER�ADROP�j
+# SQLの基本操作（CREATE、INSERT、ALTER、DROP）
   
 **create_table.sql**  
-�e�[�u���쐬  
+テーブル作成  
   
 **insert_record.sql**  
-�e�[�u���ւ̃��R�[�h�ǉ�  
+テーブルへのレコード追加  
   
 **add_column.sql**  
-�e�[�u���ւ̃J�����ǉ��iALTER���j  
+テーブルへのカラム追加（ALTER文）  
   
 **drop_table.sql**  
-�e�[�u���̍폜�iALTER���j  
+テーブルの削除  
   
 **drop_column.sql**  
-�e�[�u������̃J�����폜�iALTER���j  
+テーブルからのカラム削除 
   
   
   
